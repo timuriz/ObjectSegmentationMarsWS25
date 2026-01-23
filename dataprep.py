@@ -88,3 +88,5 @@ val_loader = DataLoader(
 #if there's no mask - turns back an error, so it all wont get ruined. also some minor changes like other
 #normalization method, faster data loader, mask gets resized too
 
+#did not test with deeplab
+
